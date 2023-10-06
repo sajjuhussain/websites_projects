@@ -1,0 +1,18 @@
+
+
+@media (max-width: 992px) {
+    .team-member{
+        text-transform: uppercase;
+        color: red;
+    }
+    
+}
+@media  (max-width : 640px) {
+  .nav {
+    flex-direction: column;
+  }
+}
+
+
+
+    
