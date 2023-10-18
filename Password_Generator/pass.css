@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    font-weight: 400;
+    color: goldenrod;
+    text-decoration: underline;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    width: 300px;
+    
+    
+}
+.btn{
+    padding: 5px;
+    border-radius: 50px;
+    background-color:bisque;
+    font-style: italic;
+    font-weight: 200;
+    
+}
+.btn:hover{
+    color: red;
+}
+.form-group{
+    width: 100%;
+    display: flex;
+    margin: 20px 5px;
+    gap: 10px;
+   
+}
